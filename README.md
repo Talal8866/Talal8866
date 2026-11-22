@@ -1,6 +1,6 @@
 # Talal Al-Sibai
 
-**Frontend Developer | Angular, React & TypeScript**
+**Software Engineer | Angular, React & TypeScript**
 
 I build responsive web applications, reusable components, and REST API integrations using Angular, React, and TypeScript.
 
