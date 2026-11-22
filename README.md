@@ -1,20 +1,13 @@
-#  Hi I'm Talal Al-Sibai
+# Talal Al-Sibai
 
- Software Engineer from Syria | Angular & Frontend Developer
+**Frontend Developer | Angular, React & TypeScript**
 
- Focused on building dynamic and responsive web apps using Angular (v16+)
+I build responsive web applications, reusable components, and REST API integrations using Angular, React, and TypeScript.
 
- Tech Stack: Angular, TypeScript, RxJS, NgRx, JavaScript, HTML, CSS, Bootstrap
+**Tech stack:** Angular, React, TypeScript, NgRx, JavaScript, HTML, CSS, Sass, Bootstrap, Node.js, Docker, SQL, MongoDB
 
- I use Git & GitHub daily for collaboration and version control
+I use Git and GitHub for version control and collaboration.
 
- Lifelong learner exploring modern web technologies and clean architecture practices
+Open to freelance, remote, and on-site frontend opportunities.
 
- Open to onsite or freelance and remote opportunities
-
-> “Great code is not just written, it's crafted.”
-
- Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/talal-alsebai-b8441a1bb/)  
-- [Portfolio](https://talal8866.github.io/Portfolio/)  
-- [Email](Talalalsebai2001@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/talal-alsebai-b8441a1bb/) · [Portfolio](https://talal8866.github.io/Portfolio/) · [Email](mailto:Talalalsebai2001@gmail.com)
